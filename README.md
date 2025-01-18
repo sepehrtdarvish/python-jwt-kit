@@ -55,5 +55,4 @@ Run the unit tests:
 python -m unittest discover tests
 ```
 
-## License
-This project is licensed under the MIT License.
+
